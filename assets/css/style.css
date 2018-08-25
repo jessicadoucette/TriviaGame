@@ -1,0 +1,15 @@
+/* html,body {
+	background-color: black;
+}
+
+.jumbotron {
+	background-color: black;
+} */
+
+button {
+	text-align: center;
+	height: 50px;
+	width: 200px;
+	font-size: 30px;
+}
+
