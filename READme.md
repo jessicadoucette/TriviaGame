@@ -7,6 +7,7 @@ Homework description:
 - If the player chooses the wrong answer, tell the player they selected the wrong option and then display the correct answer. Wait a few seconds, then show the next question.
 - On the final screen, show the number of correct answers, incorrect answers, and an option to restart the game (without reloading the page).
 
+Link to game: https://jessicadoucette.github.io/TriviaGame/
 
 First, you got to have music. So I added the Stranger Things theme song in my html. 
 
